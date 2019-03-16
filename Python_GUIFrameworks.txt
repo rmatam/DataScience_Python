@@ -1,0 +1,50 @@
+Playlist For PyQt5 Training (2019 Tutorial)
+https://www.youtube.com/watch?v=yD0iu...
+
+Python3 OOP Tutorial
+https://www.youtube.com/watch?v=tzRjg...
+
+Python3 Basics Tutorial
+https://www.youtube.com/watch?v=C_MEx...
+
+
+wxPython GUI Programming Tutorial
+https://www.youtube.com/watch?v=XVE67...
+
+PyQt5 Complete Video Series 
+https://www.youtube.com/watch?v=pnpL9...
+TKinter GUI Programming Tutorial
+https://www.youtube.com/watch?v=1jn3P...
+
+
+Django 2.1 Web Development Traning
+https://www.youtube.com/watch?v=WlDEx...
+Learn PyQt5 GUI In The Below Link
+https://goo.gl/o2MCeX
+
+Python Top 5 GUI Frameworks By Example
+In this video iam going to introduce top 5 python GUI programming Frameworks by Example
+
+1 PYQT5
+
+PyQt5 is a set of Python bindings for Qt5 application framework from Digia. It is available for the Python 2.x and 3.x, Qt library is one of the most powerful GUI libraries. The official home site for PyQt5 is www.riverbankcomputing.co.uk/news. PyQt5 is developed by Riverbank Computing 
+PyQt5 is implemented as a set of Python modules. It has over 620 classes and 6000 functions and methods. It is a multiplatform toolkit which runs on all major operating systems, including Unix, Windows, and Mac OS. PyQt5 is dual licensed. Developers can choose between a GPL and a commercial license
+
+2 Tkinter
+
+Tkinter is a Python binding to the Tk GUI toolkit. Tk is the original GUI library for the Tcl language. Tkinter is implemented as a Python wrapper around a complete Tcl interpreter embedded in the Python interpreter it is a built in module in python, when you have installed python tkinter will be 
+Installed by defualt
+
+3 Wxpython
+wxPython is a Python wrapper for wxWidgets (which is written in C++), a popular cross-platform GUI toolkit. Developed by Robin Dunn along with Harri Pasanen, wxPython is implemented as a Python extension module.
+Just like wxWidgets, wxPython is also a free software. It can be downloaded from the official website http://wxpython.org. Binaries and source code for many operating system platforms are available for download on this site.
+Principal modules in wxPython API include a core module. It consists of wxObject class, which is the base for all classes in the API. Control module contains all the widgets used in GUI application development. For example, wx.Button, wx.StaticText (analogous to a label), wx.TextCtrl (editable text control), etc.
+wxPython API has GDI (Graphics Device Interface) module. It is a set of classes used for drawing on widgets. Classes like font, color, brush, etc. are a part of it. All the container window classes are defined in Windows module
+
+
+4 Kivy
+Kivy is an open source Python framework for creating cross-platform multi-touch mobile applications with Natural User Interface. Its speed is comparable to other native mobile alternatives like Java for Android and Objective C for iOS. Kivy is the only solution for coding in Python on mobile devices. It is also capable of running on multiple platforms like HTML5 because it does not depend on heavy browser support, and is implemented in C using Cython due to which it runs directly on the GPU. The main aim that was kept in mind while developing Kivy was to run the same code on multiple platforms.
+
+5 PyForms
+At just two years old (making it one of the more recent frameworks), Pyforms is a Python 2.7/3.x cross-environment framework for developing GUI applications. It is modular and encourages code reusability with minimal effort.
+Based on PyQt, OpenGL and other libraries, it provides a quite comprehensive set of 22 controls, all based on a ControlBase object; it also includes a video player, web browser and OpenGL.
